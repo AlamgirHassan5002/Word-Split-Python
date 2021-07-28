@@ -44,8 +44,3 @@ print(WordSplit(["baseball","a,all,b,ball,bas,base,cat,code,d,e,quit,z"]))
 print(WordSplit(["abcgefd","a,ab,abc,abcg,b,c,dog,e,efd,zzzz"]))
 print(WordSplit(["hamza","h,z,laiba,haz,ham,za,dog,e,efd,zzzz"]))
 print(WordSplit(["molvihamza","a,ab,abc,mercedes,mol,molvi,ha,hamza,efd,zzzz"]))
-
-
-x="Mercedes"
-print(x[0:4])
-print(x[4:len(x)])
